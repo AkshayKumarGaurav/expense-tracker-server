@@ -1,0 +1,23 @@
+{
+    "users":[
+        {
+            "name":"Akshay Kumar Gaurav",
+            "email":"akshaykumargaurav@gmail.com",
+            "password":1234,
+            "expense":[{
+                "type":"expense",
+                "category":"Bills",
+                "amount":3000,
+                "date":"18th June,2023"
+            }],
+            "income":[{
+                "type":"income",
+                "category":"Gifts",
+                "amount":5000,
+                "date":"18th June,2023"
+            }]
+
+        }
+    ]
+
+}
